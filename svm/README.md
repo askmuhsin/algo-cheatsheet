@@ -2,7 +2,7 @@
 The support-vector network is a new learning machine for two-group classification problems.
 Vapnik, Cotes (1995) --> support-vector networks [paper](http://image.diku.dk/imagecanon/material/cortes_vapnik95.pdf)
 
-![svm](.images/svm_basics2.png)
+![svm](https://github.com/askmuhsin/algo-cheatsheet/blob/master/svm/images/svm_basics2.png)
 
 [reference](https://docs.opencv.org/trunk/d4/db1/tutorial_py_svm_basics.html)
 
