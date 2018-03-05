@@ -1,5 +1,5 @@
 # Support vector machine (SVM)
-The support-vector network is a new learning machine for two-group classification problems.
+The support-vector network is a learning machine for classification problems.
 Vapnik, Cotes (1995) --> support-vector networks [paper](http://image.diku.dk/imagecanon/material/cortes_vapnik95.pdf)
 
 ![svm](https://github.com/askmuhsin/algo-cheatsheet/blob/master/svm/images/svm_basics2.png)
